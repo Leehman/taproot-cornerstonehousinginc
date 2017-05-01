@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?taskcoach release="1.4.3" tskversion="37"?>
+
+<tasks>
+<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-04-28 08:34:36.267208" status="1" subject="CTH">
+<description>
+Cornerstone Housing Inc.
+</description>
+<task creationDateTime="2017-04-27 12:10:25.340798" id="05e07202-2b64-11e7-9dd2-705681a87859" modificationDateTime="2017-04-27 12:12:49.364486" plannedstartdate="2017-04-25 12:10:00" status="1" subject="Get content to work from.">
+<description>
+Get content to work from.
+</description>
+</task>
+<task creationDateTime="2017-04-28 08:34:36.266306" duedate="2017-05-03 18:00:00" id="0a0a3b82-2c0f-11e7-9e6d-705681a87859" modificationDateTime="2017-04-28 08:36:57.464220" plannedstartdate="2017-05-01 08:34:00" status="1" subject="Get Node.js up and running">
+<description>
+Get Node.js up and running
+</description>
+</task>
+<task creationDateTime="2017-04-27 12:13:14.579449" duedate="2017-05-03 18:00:00" id="6ac03691-2b64-11e7-8da0-705681a87859" modificationDateTime="2017-04-28 08:37:12.526172" plannedstartdate="2017-04-27 12:13:00" status="1" subject="Contact John for review May 5.">
+<description>
+Contact John for review May 5.
+</description>
+</task>
+<task creationDateTime="2017-04-27 12:14:33.587400" duedate="2017-05-05 18:00:00" id="99d7de3a-2b64-11e7-87e9-705681a87859" modificationDateTime="2017-04-28 08:37:05.482912" plannedstartdate="2017-04-27 12:15:00" status="1" subject="Website ver. 1 review">
+<description>
+Website ver. 1 review
+</description>
+</task>
+<task creationDateTime="2017-04-28 08:32:11.295897" duedate="2017-04-28 18:00:00" id="b3a17fb3-2c0e-11e7-bf32-705681a87859" modificationDateTime="2017-04-28 08:37:25.580395" plannedstartdate="2017-04-27 08:32:00" status="1" subject="Meeting Minutes 4/26">
+<description>
+Task Completed:
+
+- image work
+- test templates
+- read newsletter
+
+- John sent videos
+
+Talk about:
+
+- Google Analytics
+- SEO (Search Engine Optimization)
+- Get me some search phrases / terms
+- Internet PC / Phone access to website
+
+- Mention Lack of Affordable Housing in Sarasota Florida
+
+
+Must do:
+
+Version 1 website demo May 5 (Friday) 
+</description>
+</task>
+<task completiondate="2017-04-27 12:09:00" creationDateTime="2017-04-27 12:08:16.318778" id="b8f93f3d-2b63-11e7-9dc2-705681a87859" modificationDateTime="2017-04-28 08:38:42.466731" percentageComplete="100" plannedstartdate="2017-04-25 12:08:00" status="1" subject="Taproot win bid!">
+<description>
+John Perry contact
+</description>
+</task>
+<task creationDateTime="2017-04-27 12:15:34.791630" duedate="2017-04-28 18:00:00" id="be52e52b-2b64-11e7-8920-705681a87859" modificationDateTime="2017-04-28 08:37:44.194074" plannedstartdate="2017-04-25 12:15:00" status="1" subject="Tasks 2Date">
+<description>
+- image work
+- templates
+- read newsletter
+</description>
+</task>
+<task creationDateTime="2017-04-28 08:33:14.659254" id="d965fae8-2c0e-11e7-bedf-705681a87859" modificationDateTime="2017-04-28 08:36:41.361727" status="1" subject="Clean up Templates">
+<description>
+- includes add content
+- message 'look'
+</description>
+</task>
+</task>
+<category categorizables="6ac03691-2b64-11e7-8da0-705681a87859 99d7de3a-2b64-11e7-87e9-705681a87859 b3a17fb3-2c0e-11e7-bf32-705681a87859 be52e52b-2b64-11e7-8920-705681a87859" creationDateTime="2017-04-28 08:35:33.216914" id="2bfc338a-2c0f-11e7-8771-705681a87859" modificationDateTime="2017-04-28 08:35:50.207693" status="1" subject="Meeting">
+<description>
+Meeting
+
+</description>
+</category>
+<category categorizables="0a0a3b82-2c0f-11e7-9e6d-705681a87859 d965fae8-2c0e-11e7-bedf-705681a87859" creationDateTime="2017-04-28 08:35:51.900902" id="371f26d1-2c0f-11e7-b3dc-705681a87859" modificationDateTime="2017-04-28 08:36:03.489104" status="1" subject="Coding">
+<description>
+Coding
+</description>
+</category>
+<category creationDateTime="2017-04-28 08:36:05.436087" id="3f3075e1-2c0f-11e7-94f0-705681a87859" modificationDateTime="2017-04-28 08:36:21.408517" status="1" subject="Analysis">
+<description>
+Analysis
+</description>
+</category>
+<category categorizables="b8f93f3d-2b63-11e7-9dc2-705681a87859" creationDateTime="2017-04-28 08:38:08.965073" id="88d17c0a-2c0f-11e7-ab0c-705681a87859" modificationDateTime="2017-04-28 08:38:30.335955" status="1" subject="Waiting">
+<description>
+Waiting
+</description>
+</category>
+<syncmlconfig>
+<TaskCoach-0000015bb029fe68a6ca97cf00ac001f00630062>
+<spds>
+<sources>
+<TaskCoach-0000015bb029fe68a6ca97cf00ac001f00630062.Tasks />
+<TaskCoach-0000015bb029fe68a6ca97cf00ac001f00630062.Notes />
+</sources>
+<syncml>
+<Auth />
+<Conn />
+</syncml>
+</spds>
+</TaskCoach-0000015bb029fe68a6ca97cf00ac001f00630062>
+</syncmlconfig>
+<guid>
+0000015bb029fe68a6ca97cf00ac001f00630062
+</guid>
+</tasks>
