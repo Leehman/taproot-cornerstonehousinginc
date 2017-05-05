@@ -2,31 +2,72 @@
 <?taskcoach release="1.4.3" tskversion="37"?>
 
 <tasks>
-<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-04-28 08:34:36.267208" status="1" subject="CTH">
+<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-05-04 16:38:32.865825" prerequisites="922096d7-2e9b-11e7-88e3-705681a87859" status="1" subject="CTH">
 <description>
 Cornerstone Housing Inc.
 </description>
-<task creationDateTime="2017-04-27 12:10:25.340798" id="05e07202-2b64-11e7-9dd2-705681a87859" modificationDateTime="2017-04-27 12:12:49.364486" plannedstartdate="2017-04-25 12:10:00" status="1" subject="Get content to work from.">
+<task completiondate="2017-05-04 11:22:15.026833" creationDateTime="2017-04-27 12:10:25.340798" id="05e07202-2b64-11e7-9dd2-705681a87859" modificationDateTime="2017-05-04 11:22:15.026433" percentageComplete="100" plannedstartdate="2017-04-25 12:10:00" status="1" subject="Get content to work from.">
 <description>
 Get content to work from.
 </description>
 </task>
-<task creationDateTime="2017-04-28 08:34:36.266306" duedate="2017-05-03 18:00:00" id="0a0a3b82-2c0f-11e7-9e6d-705681a87859" modificationDateTime="2017-04-28 08:36:57.464220" plannedstartdate="2017-05-01 08:34:00" status="1" subject="Get Node.js up and running">
+<task completiondate="2017-05-04 11:21:54.577144" creationDateTime="2017-04-28 08:34:36.266306" duedate="2017-05-03 18:00:00" id="0a0a3b82-2c0f-11e7-9e6d-705681a87859" modificationDateTime="2017-05-04 11:21:54.576631" percentageComplete="100" plannedstartdate="2017-05-01 08:34:00" status="1" subject="Get Node.js up and running">
 <description>
 Get Node.js up and running
 </description>
 </task>
-<task creationDateTime="2017-04-27 12:13:14.579449" duedate="2017-05-03 18:00:00" id="6ac03691-2b64-11e7-8da0-705681a87859" modificationDateTime="2017-04-28 08:37:12.526172" plannedstartdate="2017-04-27 12:13:00" status="1" subject="Contact John for review May 5.">
+<task completiondate="2017-05-04 16:41:55.172809" creationDateTime="2017-05-04 11:20:56.728805" duedate="2017-05-05 18:00:00" id="455672c7-30dd-11e7-81cc-705681a87859" modificationDateTime="2017-05-04 16:41:55.172366" percentageComplete="100" plannedstartdate="2017-05-04 11:20:00" status="1" subject="5/4-5">
+<description>
+send email
+fix side by side photos
+header fix
+</description>
+</task>
+<task completiondate="2017-05-04 11:21:43.205151" creationDateTime="2017-05-02 18:40:01.428461" duedate="2017-05-03 18:00:00" id="472d18f8-2f88-11e7-bc54-705681a87859" modificationDateTime="2017-05-04 11:21:43.204897" percentageComplete="100" plannedstartdate="2017-05-02 18:40:00" prerequisites="9b80475c-2b63-11e7-a075-705681a87859" status="1" subject="5/2 ">
+<description>
+Cleanup text
+Upload to AWS
+Add Sarasota articles
+</description>
+</task>
+<task completiondate="2017-05-04 11:21:49.976205" creationDateTime="2017-04-27 12:13:14.579449" duedate="2017-05-03 18:00:00" id="6ac03691-2b64-11e7-8da0-705681a87859" modificationDateTime="2017-05-04 11:21:49.975764" percentageComplete="100" plannedstartdate="2017-04-27 12:13:00" status="1" subject="Contact John for review May 5.">
 <description>
 Contact John for review May 5.
 </description>
 </task>
-<task creationDateTime="2017-04-27 12:14:33.587400" duedate="2017-05-05 18:00:00" id="99d7de3a-2b64-11e7-87e9-705681a87859" modificationDateTime="2017-04-28 08:37:05.482912" plannedstartdate="2017-04-27 12:15:00" status="1" subject="Website ver. 1 review">
+<task completiondate="2017-05-04 11:23:06.958477" creationDateTime="2017-05-01 14:25:36.450691" duedate="2017-05-02 18:00:00" id="922096d7-2e9b-11e7-88e3-705681a87859" modificationDateTime="2017-05-04 11:23:06.957990" percentageComplete="100" plannedstartdate="2017-05-01 14:25:00" status="1" subject="Image Resize">
+<description>
+- get new ones
+- resize
+- test in safari, FF, chrome
+</description>
+</task>
+<task completiondate="2017-05-04 11:22:10.087045" creationDateTime="2017-04-27 12:14:33.587400" duedate="2017-05-05 18:00:00" id="99d7de3a-2b64-11e7-87e9-705681a87859" modificationDateTime="2017-05-04 11:22:10.086602" percentageComplete="100" plannedstartdate="2017-04-27 12:15:00" status="1" subject="Website ver. 1 review">
 <description>
 Website ver. 1 review
 </description>
 </task>
-<task creationDateTime="2017-04-28 08:32:11.295897" duedate="2017-04-28 18:00:00" id="b3a17fb3-2c0e-11e7-bf32-705681a87859" modificationDateTime="2017-04-28 08:37:25.580395" plannedstartdate="2017-04-27 08:32:00" status="1" subject="Meeting Minutes 4/26">
+<task creationDateTime="2017-05-04 16:38:32.865227" duedate="2017-05-10 18:00:00" id="a3ae1c1e-3109-11e7-9178-705681a87859" modificationDateTime="2017-05-04 16:41:38.400785" plannedstartdate="2017-05-04 16:41:00" status="1" subject="5/5 - next week meeting">
+<description>
+Plz type this in your web browser: http://54.173.253.147. Anyone should be able to view it. This to my web server being supported by Amazon
+
+Review the 1st version. Check all the spelling etc. I'm sure you'll have some changes!
+
+Known issues :
+
+- Fix header images
+
+- More Content (from users)
+
+- Universal Analytics (formerly Google)
+
+- PayPal button
+
+
+
+</description>
+</task>
+<task completiondate="2017-05-01 14:33:00" creationDateTime="2017-04-28 08:32:11.295897" duedate="2017-04-28 18:00:00" id="b3a17fb3-2c0e-11e7-bf32-705681a87859" modificationDateTime="2017-05-01 14:33:42.457982" percentageComplete="100" plannedstartdate="2017-04-27 08:32:00" status="1" subject="Meeting Minutes 4/26">
 <description>
 Task Completed:
 
@@ -56,14 +97,20 @@ Version 1 website demo May 5 (Friday)
 John Perry contact
 </description>
 </task>
-<task creationDateTime="2017-04-27 12:15:34.791630" duedate="2017-04-28 18:00:00" id="be52e52b-2b64-11e7-8920-705681a87859" modificationDateTime="2017-04-28 08:37:44.194074" plannedstartdate="2017-04-25 12:15:00" status="1" subject="Tasks 2Date">
+<task completiondate="2017-05-04 11:21:59.020562" creationDateTime="2017-05-01 14:26:44.968249" duedate="2017-05-01 18:00:00" id="baf789de-2e9b-11e7-9142-705681a87859" modificationDateTime="2017-05-04 11:21:59.020169" percentageComplete="100" plannedstartdate="2017-04-30 14:26:00" status="1" subject="Fix footer">
+<description>
+fix footer
+work on text
+</description>
+</task>
+<task completiondate="2017-05-04 11:22:03.992406" creationDateTime="2017-04-27 12:15:34.791630" duedate="2017-04-28 18:00:00" id="be52e52b-2b64-11e7-8920-705681a87859" modificationDateTime="2017-05-04 11:22:03.991967" percentageComplete="100" plannedstartdate="2017-04-25 12:15:00" status="1" subject="Tasks 2Date">
 <description>
 - image work
 - templates
 - read newsletter
 </description>
 </task>
-<task creationDateTime="2017-04-28 08:33:14.659254" id="d965fae8-2c0e-11e7-bedf-705681a87859" modificationDateTime="2017-04-28 08:36:41.361727" status="1" subject="Clean up Templates">
+<task completiondate="2017-05-01 14:33:00" creationDateTime="2017-04-28 08:33:14.659254" id="d965fae8-2c0e-11e7-bedf-705681a87859" modificationDateTime="2017-05-01 14:34:01.566785" percentageComplete="100" status="1" subject="Clean up Templates">
 <description>
 - includes add content
 - message 'look'
@@ -76,7 +123,7 @@ Meeting
 
 </description>
 </category>
-<category categorizables="0a0a3b82-2c0f-11e7-9e6d-705681a87859 d965fae8-2c0e-11e7-bedf-705681a87859" creationDateTime="2017-04-28 08:35:51.900902" id="371f26d1-2c0f-11e7-b3dc-705681a87859" modificationDateTime="2017-04-28 08:36:03.489104" status="1" subject="Coding">
+<category categorizables="0a0a3b82-2c0f-11e7-9e6d-705681a87859 922096d7-2e9b-11e7-88e3-705681a87859 baf789de-2e9b-11e7-9142-705681a87859 d965fae8-2c0e-11e7-bedf-705681a87859" creationDateTime="2017-04-28 08:35:51.900902" id="371f26d1-2c0f-11e7-b3dc-705681a87859" modificationDateTime="2017-04-28 08:36:03.489104" status="1" subject="Coding">
 <description>
 Coding
 </description>
@@ -84,6 +131,16 @@ Coding
 <category creationDateTime="2017-04-28 08:36:05.436087" id="3f3075e1-2c0f-11e7-94f0-705681a87859" modificationDateTime="2017-04-28 08:36:21.408517" status="1" subject="Analysis">
 <description>
 Analysis
+</description>
+</category>
+<category creationDateTime="2017-05-02 18:41:13.779584" id="724d00ca-2f88-11e7-a7c0-705681a87859" modificationDateTime="2017-05-02 18:41:27.816920" status="1" subject="Writing">
+<description>
+Writing
+</description>
+</category>
+<category creationDateTime="2017-05-02 18:41:33.924592" id="7e4ee32b-2f88-11e7-aec9-705681a87859" modificationDateTime="2017-05-02 18:41:47.294849" status="1" subject="Image Work">
+<description>
+Image Work
 </description>
 </category>
 <category categorizables="b8f93f3d-2b63-11e7-9dc2-705681a87859" creationDateTime="2017-04-28 08:38:08.965073" id="88d17c0a-2c0f-11e7-ab0c-705681a87859" modificationDateTime="2017-04-28 08:38:30.335955" status="1" subject="Waiting">
