@@ -2,13 +2,80 @@
 <?taskcoach release="1.4.3" tskversion="37"?>
 
 <tasks>
-<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-05-04 16:38:32.865825" prerequisites="922096d7-2e9b-11e7-88e3-705681a87859" status="1" subject="CTH">
+<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-05-09 08:50:05.090213" prerequisites="922096d7-2e9b-11e7-88e3-705681a87859" status="1" subject="CTH">
 <description>
 Cornerstone Housing Inc.
 </description>
 <task completiondate="2017-05-04 11:22:15.026833" creationDateTime="2017-04-27 12:10:25.340798" id="05e07202-2b64-11e7-9dd2-705681a87859" modificationDateTime="2017-05-04 11:22:15.026433" percentageComplete="100" plannedstartdate="2017-04-25 12:10:00" status="1" subject="Get content to work from.">
 <description>
 Get content to work from.
+</description>
+</task>
+<task creationDateTime="2017-05-09 08:50:05.088982" duedate="2017-05-12 18:00:00" id="063496b0-34b6-11e7-b3ad-705681a87859" modificationDateTime="2017-05-12 11:24:56.122019" plannedstartdate="2017-05-09 08:50:00" status="1" subject="Changes 5/8">
+<description>
+Hi Lee,
+
+1) Really like "The Journey: Homelessness" at the beginning along with the pictures that scroll back and forth.
+
+2) I have attached the HUD logo that has to be shown on the site at least on 2 or 3 of the pages.
+
+3) I have attached the Guidestar logo to be put on the donation page.
+
+4) "Homeless Issue" section, like the fact that you can click on the articles and it pulls up the actual article. To me its ingenious.
+
+5) "The Lack of Affordable Housing" Page 1of newsletter, last section of first article should read  Undoubtedly, the lack of affordable housing REMAINS THE LARGEST PROBLEM FOR LOW INCOME  households, a problem made worse by these economic challenges.
+
+6) "Housing First the solution to Homelessness" End of first paragraph left out small section that reads HOUSING FIRST PROGRAMS SHARE CRITICAL ELEMENTS: WHILE ALL HOUSING FIRST PROGRAMS SHARE THESE CRITICAL ELEMENTS, PROGRAM MODELS VARY DEPENDING UPON THE POPULATION SERVED. FOR PEOPLE WHO HAVE EXPERIENCED CHRONIC HOMELESSNESS, THERE IS AN EXPECTION THAT INTENSIVE (AND OFTEN SPECIALIZED) SERVICES WILL BE NEEDED INDEFINITELY.      
+
+7) "The Future of Affordable Housing" article left of at the end the following. RATHER, IT IS PRECISELY IN THIS TIME OF ONGOING ECONOMIC HARDSHIP THAT THE NEED TO DO SO IS MOST ACUTE, AND A RIGHTS BASED APPROACH TO BUDGETING DECISIONS WOULD HELP GENERATE THE WILL TO PROTECT PEOPLES'S BASIC HUMAN DIGINITY FIRST, RATHER THAN REGULATING IT TO THE STATUS OF AN OPTIONAL POLICY.
+
+8) "Scattered Site Housing" article left out section in the middle. Starts with tenants in scattered site housing feel  BUILDING THAT PROMOTE  should be taken out and leads to WELCOME.
+
+Next paragraph SUCCESSFUL SCATTERED SITE HOUSING INCLUDES CAREFUL TENANT SCREENING, SMALL SCALE DEVELOPMENT PATTERNS, GOOD DESIGN, AND ATTRACTIVE BUILDINGS THAT PROMOTE individual pride and care of property. Last part of paragraph is what should have been in the beginning and should be taken out. (HOPE THAT MAKES SENSE)
+
+9)"Housing First Community Guidelines" article typo second sentence should be STAFF not Sta. Second paragraph first sentence SUPPORTIVE not suppor ve. Second paragraph Third paragraph UNIFIED not unied. Last sentence SUPPORTIVE not suppor ve.  Last paragraph missing wording. Sarasota will have a coordinated assessment system for matching people experiencing homelessness to the most appropriate housing and services, and where individuals experiencing chronic homelessness and extremely high need families are matched to permanent supportive housing/Housing First. Every effort is made to offer a transfer to a tenant from one housing situation to another, if a tenancy is in jeopardy. Whenever possible, eviction back into homelessness is avoided.
+
+10) First sentence CREATING not crea ng. Second sentence FILTER not lter also NOTICEABLE not no ceable and ACTIVITY not ac vity. Next sentence ATTORNEYS not a orneys. Second paragraph POSITION not posi on CONSTRUCTION not construc on UTILITY not u lity. Next paragraph TRANSPORTATION not transporta on ON- not o MARKETING not marke ng FINANCING not nuancing. FINANCIAL not nancial, CONSTRUCTION not construc on, FINANCIAL not nancial.
+
+11) FORECAST ACTIONS not ac ons, TIME not me,  . Rather, it is precisely in this time of ongoing economic hardship that the need to do so is most acute,  not   Rather, it is precisely in this me of ongoing economic hardship that the need to do so is rights-based approach to budgeting decisions would help generate the will to
+
+12) Cornerstone Housing encourages low income residents and tenants to become advocates for, not Cornerstone Housing encourages low income residents and tenants to housing programs.
+
+ 
+
+I know this is long and I apologize, hope you can understand what I am trying to say.
+
+ 
+
+I have attached my take on the ALICE report from the United Way to be included. Also our six step action plan to end homelessness. Hope this will be enough copy.
+
+If possible I would like to somehow separate the chronic homeless from the homeless with children and since people do not read a great deal maybe we can put the videos toward the front of the site maybe first or second page. Also is there any way we can end the video's before they show the ending organization.
+
+ 
+
+Wow, this is truly enough for now. I can't thank you enough for all that you are doing. Let me know when you want to talk.
+
+John
+
+================================================
+
+Knowing my limited knowledge, please let me know what you think about the following.
+On the FIRST page we could have the following articles:
+1)      Picture scroll of various homeless persons, really like that
+2)      2 videos on homeless children
+3)      Mission statement and vision statement
+4)      Article on lack of affordable housing
+5)      Article on future of affordable housing 
+6)      Article on Forecast &amp; Tenant input
+7)      Article on Alice report
+On SECOND page:
+1)      The section where you have the homeless person putting down a blanket where you can touch on the headings and it brings you to the actual articles. Really like that idea
+2)      Article on Sarasota Homeless Issues
+3)      Article on Housing First the Solution to Homelessness
+4)      Article on Action Plan to End Sarasota Homelessness
+On THIRD page:
+1)      Donation page
+
 </description>
 </task>
 <task completiondate="2017-05-04 11:21:54.577144" creationDateTime="2017-04-28 08:34:36.266306" duedate="2017-05-03 18:00:00" id="0a0a3b82-2c0f-11e7-9e6d-705681a87859" modificationDateTime="2017-05-04 11:21:54.576631" percentageComplete="100" plannedstartdate="2017-05-01 08:34:00" status="1" subject="Get Node.js up and running">
@@ -47,7 +114,7 @@ Contact John for review May 5.
 Website ver. 1 review
 </description>
 </task>
-<task creationDateTime="2017-05-04 16:38:32.865227" duedate="2017-05-10 18:00:00" id="a3ae1c1e-3109-11e7-9178-705681a87859" modificationDateTime="2017-05-04 16:41:38.400785" plannedstartdate="2017-05-04 16:41:00" status="1" subject="5/5 - next week meeting">
+<task completiondate="2017-05-09 08:49:39.728685" creationDateTime="2017-05-04 16:38:32.865227" duedate="2017-05-10 18:00:00" id="a3ae1c1e-3109-11e7-9178-705681a87859" modificationDateTime="2017-05-09 08:49:56.028473" percentageComplete="100" plannedstartdate="2017-05-04 16:41:00" status="1" subject="5/5 - next week meeting">
 <description>
 Plz type this in your web browser: http://54.173.253.147. Anyone should be able to view it. This to my web server being supported by Amazon
 
@@ -123,7 +190,7 @@ Meeting
 
 </description>
 </category>
-<category categorizables="0a0a3b82-2c0f-11e7-9e6d-705681a87859 922096d7-2e9b-11e7-88e3-705681a87859 baf789de-2e9b-11e7-9142-705681a87859 d965fae8-2c0e-11e7-bedf-705681a87859" creationDateTime="2017-04-28 08:35:51.900902" id="371f26d1-2c0f-11e7-b3dc-705681a87859" modificationDateTime="2017-04-28 08:36:03.489104" status="1" subject="Coding">
+<category categorizables="063496b0-34b6-11e7-b3ad-705681a87859 0a0a3b82-2c0f-11e7-9e6d-705681a87859 922096d7-2e9b-11e7-88e3-705681a87859 baf789de-2e9b-11e7-9142-705681a87859 d965fae8-2c0e-11e7-bedf-705681a87859" creationDateTime="2017-04-28 08:35:51.900902" id="371f26d1-2c0f-11e7-b3dc-705681a87859" modificationDateTime="2017-04-28 08:36:03.489104" status="1" subject="Coding">
 <description>
 Coding
 </description>
@@ -143,7 +210,7 @@ Writing
 Image Work
 </description>
 </category>
-<category categorizables="b8f93f3d-2b63-11e7-9dc2-705681a87859" creationDateTime="2017-04-28 08:38:08.965073" id="88d17c0a-2c0f-11e7-ab0c-705681a87859" modificationDateTime="2017-04-28 08:38:30.335955" status="1" subject="Waiting">
+<category categorizables="a3ae1c1e-3109-11e7-9178-705681a87859 b8f93f3d-2b63-11e7-9dc2-705681a87859" creationDateTime="2017-04-28 08:38:08.965073" id="88d17c0a-2c0f-11e7-ab0c-705681a87859" modificationDateTime="2017-04-28 08:38:30.335955" status="1" subject="Waiting">
 <description>
 Waiting
 </description>
