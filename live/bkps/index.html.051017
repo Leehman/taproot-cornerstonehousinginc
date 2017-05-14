@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en-US">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="description" content="Cornerstone Housing Inc">
+      <meta name="keywords" content="Affordable Housing,Housing,Homelessness,Real Estate,Sustainable,Homeless Children,Senior Housing,Real Estate- Sarasota Florida,Apartments,Donate or Donations,Transforming Lives,
+        ,Need for Housing,,Giving,,Charities,,Housing First,Sarasota Housing">
+      <meta name="author" content="John Perry">
+
+      <title>Cornerstone Housing Inc.</title>
+      <link rel="stylesheet" href="css/components.css">
+      <link rel="stylesheet" href="css/icons.css">
+      <link rel="stylesheet" href="css/responsee.css">
+      <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
+      <link rel="stylesheet" href="owl-carousel/owl.theme.css">
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+      <!-- Google Analytics -->
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-98753967-1', 'auto');
+        ga('send', 'pageview');
+      </script>
+<!-- End Google Analytics -->
+      <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+      <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+      <style>
+          #myBtn {
+            display: none; /* Hidden by default */
+            position: fixed; /* Fixed/sticky position */
+            bottom: 20px; /* Place the button at the bottom of the page */
+            right: 30px; /* Place the button 30px from the right */
+            z-index: 99; /* Make sure it does not overlap */
+            border: none; /* Remove borders */
+            outline: none; /* Remove outline */
+            background-color: red; /* Set a background color */
+            color: white; /* Text color */
+            cursor: pointer; /* Add a mouse pointer on hover */
+            padding: 15px; /* Some padding */
+            border-radius: 10px; /* Rounded corners */
+          }
+
+          #myBtn:hover {
+            background-color: #555; /* Add a dark-grey background on hover */
+      }
+      </style>
+   </head>
+   <body class="size-960">
+      <!-- HEADER -->
+      <header>
+         <div class="line">
+            <div class="box">
+               <div class="s-6 l-12">
+                  <!--<img src="img/cth_doc_pic.png">-->
+                  <img src="img/cth-logo-brand.png" style="height:140px;width:160px;border: none;outline: none;">
+                  <p>
+                  <!--<img src="img/cth_cnp_1.png" style="float:left;width:160px;border: none;outline: none;">-->
+                  <strong style="height:100px">Cornerstone Housing Inc.</strong>
+                  <img src="img/cth_cnp_2.png" style="float:right;width:200px;border: none;outline: none;;margin-right:50px;">
+
+                </p>
+               </div>
+            </div>
+         </div>
+         <!-- TOP NAV -->
+         <div class="line">
+
+            <nav class="margin-bottom">
+               <p class="nav-text">Custom menu text</p>
+               <div class="top-nav s-12 l-10">
+                  <ul>
+                     <li><a>Home</a></li>
+                     <li><a>Alice</a></li>
+                  </ul>
+               </div>
+               <div class="hide-s hide-m l-2">
+                  <i class="icon-facebook_circle icon2x right padding"></i>
+               </div>
+            </nav>
+
+         </div>
+      </header>
+      <form>
+        <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+      </form>
+      <section>
+        <!-- GALLERY CAROUSEL -->
+        <div class="line">
+           <h2>The Journey : Homelessness</h2>
+           <div id="owl-demo2" class="owl-carousel margin-bottom">
+              <div class="item"><img src="img/feet-poor.jpg" alt="" /></div>
+              <div class="item"><img src="img/homeless-car.jpeg" alt="" /></div>
+              <div class="item"><img src="img/homeless_definition.jpg" alt="" /></div>
+              <div class="item"><img src="img/street-tips.png" alt="" /></div>
+              <div class="item"><img src="img/homeless_rect.jpg" alt="" /></div>
+
+              <div class="item"><img src="img/child-homeless.jpg" alt="" /></div>
+              <div class="item"><img src="img/homeless-car.jpg" alt="" /></div>
+              <div class="item"><img src="img/homeless.jpg" alt="" /></div>
+              <div class="item"><img src="img/man-homeless.jpg" alt="" /></div>
+              <div class="item"><img src="img/man-homeless-2.jpg" alt="" /></div>
+              <div class="item"><img src="img/women-homeless.jpg" alt="" /></div>
+              <div class="item"><img src="img/slc_homeless_1.jpg" alt="" /></div>
+           </div>
+        </div>
+
+         <!-- HOME PAGE BLOCK -->
+         <div class="line">
+            <div class="margin">
+               <div class="s-12 l-6 margin-bottom">
+                  <div class="box">
+                     <h2>Our Mission</h2>
+                     <p>CORNERSTONE HOUSING INC.
+                        Our purpose is to build new and rehabilitate rental housing to accommodate low-income, homeless, and the less fortunate individuals of Florida.
+                        To also supply social services and counseling that will enable them to achieve the greatest social and economic independence at the lowest cost to society.
+                        <p>
+                    &nbsp;
+                  </p></p>
+                  </div>
+               </div>
+               <div class="s-12 l-6 margin-bottom">
+                  <div class="box">
+                     <h2>Our Vision</h2>
+                     <p>Cornerstone Housing Inc. is working to create more humane communities in which we work, where these communities are healthy and all people can develop their God given, full potential.
+                       We believe that affordable housing and support programs improve the economic status of residents, transform neighborhoods and stabilize lives. We strongly believe that:
+                       <strong>HOPE BEGINS WITH HOUSING</strong>
+                     </p>
+                  </div>
+               </div>
+
+            </div>
+         </div>
+         <!-- ASIDE NAV AND CONTENT -->
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h1>Sarasota's Homeless Issue</h1>
+                     <p>Sarasota's homeless problems are well documnetd. First it was reported in the Sarasota magazine :
+                       <a href="https://www.sarasotamagazine.com/articles/2016/6/3/sarasota-homeless-problem-makes-national-news-again">Sarasota's Homeless Problem (2016)</a>
+
+                     </p>
+                     <br />
+                       <p>
+                       And again in this articles: <br />
+                       <a href="https://www.sarasotamagazine.com/articles/2014/12/31/41465">Sarasota's Homeless Problem (2014)</a>
+                     </p>
+                     <br />
+                      <p>
+                       Finally the national magazine Washington Post had their take on this issue : <br />
+                       <a href="https://www.washingtonpost.com/local/public-safety/homeless-say-booming-cities-have-outlawed-their-right-to-sleep-beg-and-even-sit/2016/06/02/7dde62ea-21e3-11e6-aa84-42391ba52c91_story.html">Washington Post Writes on the Sarasota's Homeless Problem (2016)</a>
+<p>
+                     </p>
+                     <br />
+                     <P>
+                       <img src="img/davidcross1460403315.jpg" style="height:350px;width:600px;" / />
+                     </P>
+                     <br />
+                     <P>
+                       <strong>You Can Help!!</strong>
+                     </P>
+                  </article>
+                </div>
+             </div>
+          </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h1>THE LACK OF AFFORDABLE HOUSING!</h1>
+                     <p>There is no state in this United States where a minimum wage worker working full time can afford a one-bedroom apartment at the fair market rent.
+                        In Florida, the Fair Market Rent (FMR) for a two- bedroom apartment is <strong>$1,038</strong>. In order to afford this level of rent and utilities, without paying more than <strong>30%</strong> of income on housing,
+                        a household must earn <strong>$3,374</strong> monthly or <strong>$40,488</strong> annually. Assuming a 40-hour work week, 52 weeks per year this level of income
+                        translates into an hourly Housing Wage of: <strong>$19.47</strong>.
+                     </p>
+                     <h3 style="color: red;">97</h3>
+                     <p>Work Hours per Week at Minimum Wage is Needed to afford a 2-Bedroom Unit at Fair Market Rent
+                     </p>
+                     <h3  style="color: red;">2.4</h3>
+                     <p>Number of Full-Time Jobs at Minimum Wage Needed To Afford a 2- Bedroom Unit at Fair Market Rent
+                          Many renters earn far less than the Housing Wage in their community and struggle to find an affordable place to live. The report “Out of Reach” compiled by The National Low Income Housing Coalition highlights some of the economic
+                          challenges facing low income renters, including lagging wages, inconsistent job growth, and the rising cost of living. Undoubtedly, the lack of affordable
+                          households, a problem made worse by these economic challenges.
+                        </p>
+                        <br />
+                        <p>
+                          Expanding and preserving the supply of quality, affordable housing is essential to any strategy to end homelessness, poverty, and economic inequality. As our nation’s policymakers seek ways of overcoming these social ills, access to affordable housing must be a cornerstone of any proposal.
+                          A safe, stable affordable place to live keeps families healthy, helps people find and keep jobs and helps kids come to school ready to learn. A home keeps families stable and connected. Our states and our nation will be better off when we take steps to end
+                          homelessness where everyone has a safe and decent place to live. By prioritizing and investing in affordable housing, we can work to ensure that those who are at risk of homelessness are better protected from becoming homeless.
+                     </p>
+                  </article>
+
+               </div>
+            </div>
+         </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h2>Housing First The Solution to Homelessness</h2>
+                     <p>Housing First is an approach to ending homelessness that centers on providing people experiencing homelessness with housing as quickly as possible – and then
+                        providing services as needed. This approach has the benefit of being consistent with what most people experiencing homelessness want and seek help to achieve.
+                     </p>
+                     <br />
+                     <p>For most people experiencing homelessness, however, such intensive services are not necessary. The vast majority of homeless individuals and families fall into homelessness after a housing or personal crisis that
+                       led them to seek help from the homeless assistance system. For these families and individuals, the Housing First approach is ideal, as it provides them with assistance to find permanent housing quickly and
+                       without conditions. In turn, such clients of the homeless assistance networks need surprisingly little support or assistance to achieve independence, saving the system considerable costs.
+                     </p>
+                     <br />
+                    <p>  Communities that have paved the road to reducing homelessness among families are continuing the effort to help families who become homeless by quickly returning them to housing. They are supplying families’
+                      immediate access to permanent housing thereby providing them with the stability necessary to gain independence.
+                    Families for the most part, who experience homelessness, are in a shelter for a brief period of time and do not become homeless again. Most families utilize the shelter system until the problems such as financial,
+                    death of a spouse, a medical problem or abuse in the family is resolved and is then able to move forward. A small portion of families require more intensive services and longer-term assistance.
+                    Committing political will and resources to the issue of homelessness by diverting funds and resources normally dedicated to the existing shelter system toward housing first and rapid re- housing and family services has been shown to reduce homelessness.
+                     </p>
+                  </article>
+
+               </div>
+            </div>
+         </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h2>The Future of Affordable Housing</h2>
+                     <p>The need for affordable housing continues to grow, particularly the need for housing affordable to the lowest income people. Nationwide, there are only 31 units of housing affordable and available for every 100 extremely low income Americans.
+                       Federal housing assistance only serves one quarter of those who qualify for it. And special populations, such as disabled veterans returning from combat or lower income seniors,
+                       are increasing in number and need. At the same time, the existing stock of affordable rental housing is disappearing due to deterioration and the exit of private owners
+                      from the affordable housing market.
+                    </p>
+                    <br />
+                   <p>
+                      According to the National Housing Trust, our nation loses two affordable apartments each year for every one created. Local preservation efforts have seen success, and resources like the National Housing Preservation Database are helpful,
+                      but it is a race against time. Finally, the very funding structure of most affordable housing programs puts them at risk, at both the federal and local levels. The majority of federal housing programs are appropriated, meaning that the funding amounts can change from year to year, or disappear altogether. State and
+                      local programs can be similarly volatile, because they are often dependent on revenue from fees or other market-driven sources, and are vulnerable to being swept into non-housing uses. Ensuring funding at amounts necessary to maintain programs at their current level of service, much less grow them, is a constant battle.
+                      Our country’s current struggle with budget deficits is not a reason to defer actions to improve Americans’ access to adequate housing.
+                    </p>
+
+                  </article>
+
+               </div>
+            </div>
+         </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h2>The Affects of Homelesssness</h2>
+                     <p style="float:left;">
+                       <img src="img/img2/c1460403313.jpg" style="height:250px;width:400px;margin-right:50px; "/></p>
+
+                      <p> <img src="img/img2/c11460403313.jpg" style="height:250px;width:400px;margin-right:50px; "/>
+                      </p>
+                      <br />
+                      <p  style="float:left;">
+                        <img src="img/img2/Homeless-Sign.jpg" style="height:250px;width:400px;margin-right:50px; "/></p>
+                      </p><img src="img/img2/homeless3_sgopse.jpg" style="height:250px;width:400px;margin-right:50px; "/>
+                       </p>
+                  </article>
+
+               </div>
+            </div>
+         </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h2>Scattered Site Housing</h2>
+                     <p>For more than 25 years, "scattered-site" housing has been widely promoted as an alternative to the large, dense public and assisted housing developments that too often concentrated poor families in socially isolated and profoundly dehumanizing environments. Scattered- Site Housing fills an important vacuum in our
+                        understanding of this crucial segment of the HUD-assisted housing
+                        stock. Tenants in scattered site housing feelbuildings that "promote welcome in their new
+                        homes and prefer their new neighborhoods, where they expect their children to benefit from safer surroundings and better access to quality schools.
+                      </p>
+                      <br />
+                     <p>
+                        Successful scattered-site housing
+                        individual pride and care of property. The persistence of concerns over poverty concentration and quality of life that originally led to the wide spread use of scattered-site housing makes it certain that this
+                        development model will continue.ncludes careful tenant screening, small-scale development patterns, good design, and attractive buildings that "promote individual pride and care of property.
+                        The persistence of concerns over poverty concentration and quality of life that originally led to the wide spread use of scattered-site housing makes it certain that this development model will continue
+                     </p>
+
+                  </article>
+
+               </div>
+            </div>
+         </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h2>Housing First Community Guidelines</h2>
+                     <p>Emergency shelter, street outreach providers, and other parts of crisis response system are aligned with Housing First and recognize their roles to encompass housing advocacy and rapid connec on to permanent housing. Sta  in crisis response system services believes that all people experiencing homelessness are housing ready.
+                     </p>
+                     <br />
+                    <p>
+                    Strong and direct referral linkages and relatonships exist between crisis response system (emergency shelters, street outreach, etc.) and rapid re-housing and permanent suppor ve housing. Crisis response providers are aware and trained in how to assist people experiencing homelessness to apply for and obtain permanent housing. Sarasota will have a uni ed, streamlined, and user-friendly community-wide process for applying for rapid re-housing, permanent suppor ve housing and/or other housing interventions.
+                  </p>
+                  <br />
+                 <p>
+                    Sarasota will have a coordinated assessment system for matching people experiencing homelessness to the most appropriate housing and services, and where individuals experiencing chronic homelessness and extremely high need families are matched to permanent suppor ve housing/Housing First. Every e ort is made to o er a transfer to a tenant from one housing situa on to another, if a tenancy is in jeopardy. Whenever possible, evic on back into homelessness is avoided.
+                     </p>
+                  </article>
+
+               </div>
+            </div>
+         </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h2>Economic Impact of Development Strategies</h2>
+                     <p>Access to affordable housing and services is the solution to homelessness and the plan to end and prevent homelessness equals crea ng jobs in the community. Money starts to  lter into a community before any no ceable construc on ac vity. Planning professionals, a orneys, engineers, architects and designers are commissioned to develop preliminary designs.
+                     </p>
+                     <br />
+                    <p>
+                        Financial models are prepared and land is acquired. Redevelopment plans are presented and local businesses strategize for their posi on in a growing economy. There is an increase in construc on related jobs that are available to local workers, thereby increasing wages. There are local permit fees, impact fees, u lity fees, and transfer taxes.
+                      </p>
+                      <br />
+                     <p>
+                        Job openings are available in landscaping, trucking and transporta on. There are o - site improvements such as road and sidewalk work, as well as sewer and water systems infrastructure. There are also marke ng,  nancing, and realtor costs that bring money to the local economy. The  nancial impact of construc on is far reaching and felt by a variety of businesses including  nancial
+
+                        institutions, and educational, systems and services. Local businesses and trades also increase in volume of delivery services.
+                      </p>
+
+                  </article>
+
+               </div>
+            </div>
+         </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-12">
+                     <h1>Forecast</h1>
+                     <p>Our country’s current struggle with budget deficits is not a reason to defer ac ons to improve Americans’ access to adequate housing. Rather, it is precisely in this  me of ongoing economic hardship that the need to do so is
+                       rights-based approach to budgeting decisions would help generate the will to protect people’s basic human dignity first, rather than relegating it to the status of an optional policy.
+                     </p>
+                     <h3>Tenants Input!</h3>
+                     <p>Subsidized housing residents and tenants have important personal perspectives on how subsidized housing policies impact their needs.
+                        If you are a affordable housing tenant or resident, you have good ideas about how
+                        programs should be managed. You also have a valuable perspective on a ordable housing need in your community. You have the ability to be a powerful advocate for a ordable housing.
+                      </p>
+                      <br />
+                     <p>
+                        Cornerstone Housing encourages low income residents and tenants to
+                        housing programs. If you are a resident or tenant, please take a look at Cornerstone’s resources dedicated to empowering your advocacy:
+                        Our goals can be met only if state housing and homeless coalitions, direct
+                        service providers, and residents and other low income people are educated and empowered to take action. Together, we can then hold federal, state and local policy makers accountable for solving the housing problems of low income people.
+                     </p>
+                  </article>
+                </div>
+             </div>
+          </div>
+         <div class="line">
+            <div class="margin">
+               <div class="s-12 l-6 margin-bottom">
+                  <div class="box">
+                     <h3>When a Child Has a Home</h3>
+                       <video width="320" height="240" controls poster="">
+                        <source src="videos/When a Child Has a Home.mp4" type="video/mp4">
+                          Your browser does not support the video tag.
+                        </video>
+                  </div>
+               </div>
+               <div class="s-12 l-6 margin-bottom">
+                  <div class="box">
+                     <h3>Homeless Children - What If</h3>
+                     <video width="320" height="240" controls poster="">
+                      <source src="videos/Homeless Children - What If.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                  </div>
+               </div>
+
+            </div>
+         </div>
+         <div class="line">
+            <div class="box margin-bottom">
+               <div class="margin">
+                  <!-- CONTENT -->
+                  <article class="s-12 m-7 l-11">
+                     <h1>Contact Us</h1>
+                     <p><strong>Phone :  941-313-2202
+                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                       Email : perryj@cornerstonehousinginc.org</strong>
+
+
+                     </p>
+                     <h3>Donations</h3>
+                     <p>WE NEED YOUR HELP!! <br /><br />
+                        Yes! I want to help the less fortunate of Sarasota County<br />
+                        I wish to make a tax-deductible contribution of $5.00 $10.00 $20.00 $50.00 or Other Amount<br />
+                        To keep your program moving ahead!<br />
+                        <br />
+                        SEND MAIL FOR THIS TAX-DEDUCTIBLE CONTRIBUTION TO:<br />
+                        <br />
+                        Cornerstone Housing Inc., PO BOX 17712, Sarasota, FL 34276<br />
+                        <br />
+                     </p>
+
+                     <h3>Our Newsletters</h3>
+                     <p>Click to Download <br /><br />
+                       <!--var res = encodeURI(uri);-->
+                       <a  href="docs/Cornerstone Second Newsletter 8- 2016.pdf">January 2017 Newsletter (PDF)</a>
+                        <br />
+                     </p>
+                  </article>
+
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- FOOTER -->
+      <footer class="line">
+        <div class="box">
+
+            <div class="s-12 m-7 l-12">
+              <P><strong>
+                A copy of the official registration and financial information may be obtained from the division of consumer services by calling toll-free (800-435-7532) within the state. registration does not imply endorsement, approval, or recommendation by the state” registration #dtn2859302
+                </strong>
+            </P>
+          </div>
+        </div>
+      </footer>
+      <script type="text/javascript" src="js/responsee.js"></script>
+      <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
+      <script type="text/javascript">
+         jQuery(document).ready(function($) {
+           $("#owl-demo2").owlCarousel({
+        		items : 4,
+           	lazyLoad : true,
+           	autoPlay : true,
+           	navigation : true,
+           	pagination : false
+           });
+         });
+      </script>
+      <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+          window.onscroll = function() {scrollFunction()};
+
+          function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("myBtn").style.display = "block";
+            } else {
+                document.getElementById("myBtn").style.display = "none";
+            }
+          }
+
+          // When the user clicks on the button, scroll to the top of the document
+          function topFunction() {
+            document.body.scrollTop = 0; // For Chrome, Safari and Opera
+            document.documentElement.scrollTop = 0; // For IE and Firefox
+          }
+      </script>
+   </body>
+</html>
