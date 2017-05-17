@@ -2,7 +2,7 @@
 <?taskcoach release="1.4.3" tskversion="37"?>
 
 <tasks>
-<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-05-09 08:50:05.090213" prerequisites="922096d7-2e9b-11e7-88e3-705681a87859" status="1" subject="CTH">
+<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-05-16 18:50:31.426328" prerequisites="922096d7-2e9b-11e7-88e3-705681a87859" status="1" subject="CTH">
 <description>
 Cornerstone Housing Inc.
 </description>
@@ -81,6 +81,111 @@ On THIRD page:
 <task completiondate="2017-05-04 11:21:54.577144" creationDateTime="2017-04-28 08:34:36.266306" duedate="2017-05-03 18:00:00" id="0a0a3b82-2c0f-11e7-9e6d-705681a87859" modificationDateTime="2017-05-04 11:21:54.576631" percentageComplete="100" plannedstartdate="2017-05-01 08:34:00" status="1" subject="Get Node.js up and running">
 <description>
 Get Node.js up and running
+</description>
+</task>
+<task creationDateTime="2017-05-16 18:50:31.425661" duedate="2017-05-18 18:00:00" id="10778ba6-3a8a-11e7-a010-705681a87859" modificationDateTime="2017-05-16 18:50:56.037669" plannedstartdate="2017-05-17 18:50:00" status="1" subject="PayPal">
+<description>
+I was able to set up the PayPal Donate Button and have attached  the button code. I believe I have done it right but if not let me know! I will be sending finale revisions for website soon.
+
+ 
+
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"&gt;
+
+&lt;input type="hidden" name="cmd" value="_s-xclick"&gt;
+
+&lt;input type="hidden" name="hosted_button_id" value="ZTGEDDCQUWMN4"&gt;
+
+&lt;input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"&gt;
+
+&lt;img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"&gt;
+
+&lt;/form&gt;
+
+ 
+
+ 
+
+Buyer's View
+
+Preview Image
+
+Add your button code to your webpage
+
+Top of Form
+
+You just created customized HTML code for your button. The final step is to copy the code from this page and paste it into your website editor.
+
+Copy the button code:
+
+1.      Click Select Code.
+
+2.      Right-click and copy the selected code.
+
+If you're working with a website developer, you can paste the button code into an email and send it to your developer now.
+
+
+Paste the button code in your website editor:
+
+The code must be pasted in the "code" view, where you can view and edit HTML.
+
+1.      In your website editor or admin page, open the page where you want to add your button.
+
+2.      Look for an option to view or edit HTML.
+
+3.      Find the section of the page where you want your button to appear.
+
+4.      Right-click and paste your button code into the HTML.
+
+5.      Save and publish the page. (The preview function in your editor may not display the button code correctly.)
+
+6.      Test the button to make sure it links to a PayPal payment page.
+
+Need more help? Click here for additional information.
+
+·        Website
+
+·        Email
+
+Go back to edit this button
+
+Buyer's View
+
+Preview Image
+
+Go back to edit this button
+
+Buyer's View
+
+Preview Image
+
+Create similar button
+
+Create similar button | Create a new button
+
+Similar: Use the button you just created as a template for another button.
+New: Create a completely new button from a blank form.
+
+My saved buttons
+
+Bottom of Form
+
+ 
+
+ 
+
+Life isn't about waiting for the storm to pass...It's about learning to dance in the rain
+
+John E. Perry
+
+President
+
+Cornerstone-Logo-1
+
+PO Box 17712
+
+Sarasota, Florida 34276
+
+Ph: 941-313-2202
 </description>
 </task>
 <task completiondate="2017-05-04 16:41:55.172809" creationDateTime="2017-05-04 11:20:56.728805" duedate="2017-05-05 18:00:00" id="455672c7-30dd-11e7-81cc-705681a87859" modificationDateTime="2017-05-04 16:41:55.172366" percentageComplete="100" plannedstartdate="2017-05-04 11:20:00" status="1" subject="5/4-5">
