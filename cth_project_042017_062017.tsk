@@ -2,7 +2,7 @@
 <?taskcoach release="1.4.3" tskversion="37"?>
 
 <tasks>
-<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-05-16 18:50:31.426328" prerequisites="922096d7-2e9b-11e7-88e3-705681a87859" status="1" subject="CTH">
+<task creationDateTime="2017-04-27 12:07:26.872105" expandedContexts="('taskviewer',)" id="9b80475c-2b63-11e7-a075-705681a87859" modificationDateTime="2017-05-17 10:39:03.530691" prerequisites="922096d7-2e9b-11e7-88e3-705681a87859" status="1" subject="CTH">
 <description>
 Cornerstone Housing Inc.
 </description>
@@ -11,7 +11,7 @@ Cornerstone Housing Inc.
 Get content to work from.
 </description>
 </task>
-<task creationDateTime="2017-05-09 08:50:05.088982" duedate="2017-05-12 18:00:00" id="063496b0-34b6-11e7-b3ad-705681a87859" modificationDateTime="2017-05-12 11:24:56.122019" plannedstartdate="2017-05-09 08:50:00" status="1" subject="Changes 5/8">
+<task completiondate="2017-05-17 10:38:40.959380" creationDateTime="2017-05-09 08:50:05.088982" duedate="2017-05-12 18:00:00" id="063496b0-34b6-11e7-b3ad-705681a87859" modificationDateTime="2017-05-17 10:38:40.958986" percentageComplete="100" plannedstartdate="2017-05-09 08:50:00" status="1" subject="Changes 5/8">
 <description>
 Hi Lee,
 
@@ -83,7 +83,7 @@ On THIRD page:
 Get Node.js up and running
 </description>
 </task>
-<task creationDateTime="2017-05-16 18:50:31.425661" duedate="2017-05-18 18:00:00" id="10778ba6-3a8a-11e7-a010-705681a87859" modificationDateTime="2017-05-16 18:50:56.037669" plannedstartdate="2017-05-17 18:50:00" status="1" subject="PayPal">
+<task completiondate="2017-05-17 10:38:52.977813" creationDateTime="2017-05-16 18:50:31.425661" duedate="2017-05-18 18:00:00" id="10778ba6-3a8a-11e7-a010-705681a87859" modificationDateTime="2017-05-17 10:38:52.977413" percentageComplete="100" plannedstartdate="2017-05-17 18:50:00" status="1" subject="PayPal">
 <description>
 I was able to set up the PayPal Donate Button and have attached  the button code. I believe I have done it right but if not let me know! I will be sending finale revisions for website soon.
 
@@ -214,6 +214,26 @@ Contact John for review May 5.
 - test in safari, FF, chrome
 </description>
 </task>
+<task creationDateTime="2017-05-17 10:39:03.529785" duedate="2017-05-19 18:00:00" expandedContexts="('taskviewer',)" id="92b976cc-3b0e-11e7-ab94-705681a87859" modificationDateTime="2017-05-19 16:02:01.804997" plannedstartdate="2017-05-17 10:39:00" status="1" subject="Header Work">
+<description>
+1)      Make logo and name on each header larger
+
+2)      Make bigger on header and add “A 501c3 NON PROFIT COMMITTED TO AFFORDABLE HOUSING”
+
+3)      On first and second  page where it says “To Donate Click Here” remove and place at top right corner of the header and make color red if possible
+
+4)      Take out completely the article titled “Housing First Community Guidelines”
+
+5)      Take out completely the article titled “Forecast &amp; Tenant Input”
+
+6)      Alice report where it says “click here to read the full document” can we place the actual United Way Report which I have attached.
+</description>
+<task creationDateTime="2017-05-19 16:02:01.803600" duedate="2017-05-21 18:00:00" id="05e6e3e3-3cce-11e7-958f-705681a87859" modificationDateTime="2017-05-19 16:03:24.698178" plannedstartdate="2017-05-19 16:02:00" status="1" subject="final approval">
+<description>
+final approval
+</description>
+</task>
+</task>
 <task completiondate="2017-05-04 11:22:10.087045" creationDateTime="2017-04-27 12:14:33.587400" duedate="2017-05-05 18:00:00" id="99d7de3a-2b64-11e7-87e9-705681a87859" modificationDateTime="2017-05-04 11:22:10.086602" percentageComplete="100" plannedstartdate="2017-04-27 12:15:00" status="1" subject="Website ver. 1 review">
 <description>
 Website ver. 1 review
@@ -315,7 +335,7 @@ Writing
 Image Work
 </description>
 </category>
-<category categorizables="a3ae1c1e-3109-11e7-9178-705681a87859 b8f93f3d-2b63-11e7-9dc2-705681a87859" creationDateTime="2017-04-28 08:38:08.965073" id="88d17c0a-2c0f-11e7-ab0c-705681a87859" modificationDateTime="2017-04-28 08:38:30.335955" status="1" subject="Waiting">
+<category categorizables="05e6e3e3-3cce-11e7-958f-705681a87859 a3ae1c1e-3109-11e7-9178-705681a87859 b8f93f3d-2b63-11e7-9dc2-705681a87859" creationDateTime="2017-04-28 08:38:08.965073" id="88d17c0a-2c0f-11e7-ab0c-705681a87859" modificationDateTime="2017-04-28 08:38:30.335955" status="1" subject="Waiting">
 <description>
 Waiting
 </description>
